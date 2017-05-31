@@ -1,0 +1,622 @@
+http://dbpedia.org/resource/Absalon @http://xmlns.com/foaf/0.1/name "Absalon"@en
+http://dbpedia.org/resource/Absalon @dc:description "Archbishop, statesman"@en
+http://dbpedia.org/resource/Absalon @http://dbpedia.org/ontology/birthDate "1128"^^http://www.w3.org/2001/XMLSchema#gYear
+http://dbpedia.org/resource/Absalon @http://dbpedia.org/ontology/deathDate "1201-03-21"^^http://www.w3.org/2001/XMLSchema#date
+http://dbpedia.org/resource/Adhemar_of_Le_Puy @http://xmlns.com/foaf/0.1/name "Adhemar Of Le Puy"@en
+http://dbpedia.org/resource/Adhemar_of_Le_Puy @http://xmlns.com/foaf/0.1/surname "Puy"@en
+http://dbpedia.org/resource/Adhemar_of_Le_Puy @http://xmlns.com/foaf/0.1/givenName "Adhemar Of Le"@en
+http://dbpedia.org/resource/Adhemar_of_Le_Puy @dc:description "french bishop"@en
+http://dbpedia.org/resource/Adhemar_of_Le_Puy @http://dbpedia.org/ontology/deathDate "1098-08-01"^^http://www.w3.org/2001/XMLSchema#date
+http://dbpedia.org/resource/Albert_Spalding @http://xmlns.com/foaf/0.1/name "Albert Goodwill Spalding"@en
+http://dbpedia.org/resource/Albert_Spalding @http://xmlns.com/foaf/0.1/surname "Spalding"@en
+http://dbpedia.org/resource/Albert_Spalding @http://xmlns.com/foaf/0.1/givenName "Albert Goodwill"@en
+http://dbpedia.org/resource/Albert_Spalding @dc:description "American baseball player"@en
+http://dbpedia.org/resource/Albert_Spalding @http://dbpedia.org/ontology/birthDate "1849-09-02"^^http://www.w3.org/2001/XMLSchema#date
+http://dbpedia.org/resource/Albert_Spalding @http://dbpedia.org/ontology/deathDate "1915-09-09"^^http://www.w3.org/2001/XMLSchema#date
+http://dbpedia.org/resource/Alan_Ayckbourn @http://xmlns.com/foaf/0.1/name "Alan Ayckbourn"@en
+http://dbpedia.org/resource/Alan_Ayckbourn @http://xmlns.com/foaf/0.1/surname "Ayckbourn"@en
+http://dbpedia.org/resource/Alan_Ayckbourn @http://xmlns.com/foaf/0.1/givenName "Alan"@en
+http://dbpedia.org/resource/Alan_Ayckbourn @dc:description "Playwright and director"@en
+http://dbpedia.org/resource/Alan_Ayckbourn @http://dbpedia.org/ontology/birthDate "1939-04-12"^^http://www.w3.org/2001/XMLSchema#date
+http://dbpedia.org/resource/Andrea_Alciato @http://xmlns.com/foaf/0.1/name "Andrea Alciato"@en
+http://dbpedia.org/resource/Andrea_Alciato @http://xmlns.com/foaf/0.1/surname "Alciato"@en
+http://dbpedia.org/resource/Andrea_Alciato @http://xmlns.com/foaf/0.1/givenName "Andrea"@en
+http://dbpedia.org/resource/Andrea_Alciato @dc:description "Italian jurist and writer"@en
+http://dbpedia.org/resource/Andrea_Alciato @http://dbpedia.org/ontology/birthDate "1492-05-08"^^http://www.w3.org/2001/XMLSchema#date
+http://dbpedia.org/resource/Andrea_Alciato @http://dbpedia.org/ontology/deathDate "1550-01-12"^^http://www.w3.org/2001/XMLSchema#date
+http://dbpedia.org/resource/Alexander_Fleming @http://xmlns.com/foaf/0.1/name "Alexander Fleming"@en
+http://dbpedia.org/resource/Alexander_Fleming @http://xmlns.com/foaf/0.1/surname "Fleming"@en
+http://dbpedia.org/resource/Alexander_Fleming @http://xmlns.com/foaf/0.1/givenName "Alexander"@en
+http://dbpedia.org/resource/Alexander_Fleming @dc:description "Scottish scientist known for the discovery of penicillin"@en
+http://dbpedia.org/resource/Alexander_Fleming @http://dbpedia.org/ontology/birthDate "1881-08-06"^^http://www.w3.org/2001/XMLSchema#date
+http://dbpedia.org/resource/Alexander_Fleming @http://dbpedia.org/ontology/deathDate "1955-03-11"^^http://www.w3.org/2001/XMLSchema#date
+http://dbpedia.org/resource/Andreas_Capellanus @http://xmlns.com/foaf/0.1/name "Andreas Capellanus"@en
+http://dbpedia.org/resource/Andreas_Capellanus @http://xmlns.com/foaf/0.1/surname "Capellanus"@en
+http://dbpedia.org/resource/Andreas_Capellanus @http://xmlns.com/foaf/0.1/givenName "Andreas"@en
+http://dbpedia.org/resource/Andreas_Capellanus @dc:description "French twelfth century author"@en
+http://dbpedia.org/resource/Andreas_Capellanus @http://dbpedia.org/ontology/birthDate "0012"^^http://www.w3.org/2001/XMLSchema#gYear
+http://dbpedia.org/resource/Abel_Tasman @http://xmlns.com/foaf/0.1/name "Abel. Tasman"@en
+http://dbpedia.org/resource/Abel_Tasman @http://xmlns.com/foaf/0.1/surname "Tasman"@en
+http://dbpedia.org/resource/Abel_Tasman @http://xmlns.com/foaf/0.1/givenName "Abel."@en
+http://dbpedia.org/resource/Abel_Tasman @dc:description "Dutch explorer"@en
+http://dbpedia.org/resource/Abel_Tasman @http://dbpedia.org/ontology/birthDate "1603-01-01"^^http://www.w3.org/2001/XMLSchema#date
+http://dbpedia.org/resource/Abel_Tasman @http://dbpedia.org/ontology/deathDate "1659-10-10"^^http://www.w3.org/2001/XMLSchema#date
+http://dbpedia.org/resource/A._J._Ayer @http://xmlns.com/foaf/0.1/name "Alfred Ayer"@en
+http://dbpedia.org/resource/A._J._Ayer @http://xmlns.com/foaf/0.1/surname "Ayer"@en
+http://dbpedia.org/resource/A._J._Ayer @http://xmlns.com/foaf/0.1/givenName "Alfred"@en
+http://dbpedia.org/resource/A._J._Ayer @dc:description "English philosopher"@en
+http://dbpedia.org/resource/A._J._Ayer @http://dbpedia.org/ontology/birthDate "1910-10-29"^^http://www.w3.org/2001/XMLSchema#date
+http://dbpedia.org/resource/A._J._Ayer @http://dbpedia.org/ontology/deathDate "1989-06-27"^^http://www.w3.org/2001/XMLSchema#date
+http://dbpedia.org/resource/Atle_Selberg @http://xmlns.com/foaf/0.1/name "Atle Selberg"@en
+http://dbpedia.org/resource/Atle_Selberg @http://xmlns.com/foaf/0.1/surname "Selberg"@en
+http://dbpedia.org/resource/Atle_Selberg @http://xmlns.com/foaf/0.1/givenName "Atle"@en
+http://dbpedia.org/resource/Atle_Selberg @dc:description "Mathematician"@en
+http://dbpedia.org/resource/Atle_Selberg @http://dbpedia.org/ontology/birthDate "1917-06-14"^^http://www.w3.org/2001/XMLSchema#date
+http://dbpedia.org/resource/Atle_Selberg @http://dbpedia.org/ontology/deathDate "2007-08-06"^^http://www.w3.org/2001/XMLSchema#date
+http://dbpedia.org/resource/Andrew_Wiles @http://xmlns.com/foaf/0.1/name "Andrew Wiles"@en
+http://dbpedia.org/resource/Andrew_Wiles @http://xmlns.com/foaf/0.1/surname "Wiles"@en
+http://dbpedia.org/resource/Andrew_Wiles @http://xmlns.com/foaf/0.1/givenName "Andrew"@en
+http://dbpedia.org/resource/Andrew_Wiles @dc:description "English Mathematician"@en
+http://dbpedia.org/resource/Andrew_Wiles @http://dbpedia.org/ontology/birthDate "1953-04-11"^^http://www.w3.org/2001/XMLSchema#date
+http://dbpedia.org/resource/Anne_Brontë @http://xmlns.com/foaf/0.1/name "Anne Brontë"@en
+http://dbpedia.org/resource/Anne_Brontë @http://xmlns.com/foaf/0.1/surname "Brontë"@en
+http://dbpedia.org/resource/Anne_Brontë @http://xmlns.com/foaf/0.1/givenName "Anne"@en
+http://dbpedia.org/resource/Anne_Brontë @dc:description "English novelist and poet"@en
+http://dbpedia.org/resource/Anne_Brontë @http://dbpedia.org/ontology/birthDate "1820-01-17"^^http://www.w3.org/2001/XMLSchema#date
+http://dbpedia.org/resource/Anne_Brontë @http://dbpedia.org/ontology/deathDate "1849-05-28"^^http://www.w3.org/2001/XMLSchema#date
+http://dbpedia.org/resource/André_Weil @http://xmlns.com/foaf/0.1/name "Andre Weil"@en
+http://dbpedia.org/resource/André_Weil @http://xmlns.com/foaf/0.1/surname "Weil"@en
+http://dbpedia.org/resource/André_Weil @http://xmlns.com/foaf/0.1/givenName "Andre"@en
+http://dbpedia.org/resource/André_Weil @dc:description "French mathematician"@en
+http://dbpedia.org/resource/André_Weil @http://dbpedia.org/ontology/birthDate "1906-05-06"^^http://www.w3.org/2001/XMLSchema#date
+http://dbpedia.org/resource/André_Weil @http://dbpedia.org/ontology/deathDate "1998-08-06"^^http://www.w3.org/2001/XMLSchema#date
+http://dbpedia.org/resource/Aeschylus @http://xmlns.com/foaf/0.1/name "Aeschylus"@en
+http://dbpedia.org/resource/Aeschylus @dc:description "Major ancient Greek playwright, one of only three whose works have survived into modern times."@en
+http://dbpedia.org/resource/Aeschylus @http://dbpedia.org/ontology/birthDate "-0525"^^http://www.w3.org/2001/XMLSchema#gYear
+http://dbpedia.org/resource/Aeschylus @http://dbpedia.org/ontology/deathDate "-0456"^^http://www.w3.org/2001/XMLSchema#gYear
+http://dbpedia.org/resource/Alvar_Aalto @http://xmlns.com/foaf/0.1/name "Alvar Aalto"@en
+http://dbpedia.org/resource/Alvar_Aalto @http://xmlns.com/foaf/0.1/surname "Aalto"@en
+http://dbpedia.org/resource/Alvar_Aalto @http://xmlns.com/foaf/0.1/givenName "Alvar"@en
+http://dbpedia.org/resource/Alvar_Aalto @dc:description "Finnish designer and architect"@en
+http://dbpedia.org/resource/Alvar_Aalto @http://dbpedia.org/ontology/birthDate "1898-02-03"^^http://www.w3.org/2001/XMLSchema#date
+http://dbpedia.org/resource/Alvar_Aalto @http://dbpedia.org/ontology/deathDate "1976-05-11"^^http://www.w3.org/2001/XMLSchema#date
+http://dbpedia.org/resource/Augustine_of_Hippo @http://xmlns.com/foaf/0.1/name "Saint Augustine of Hippo"@en
+http://dbpedia.org/resource/Augustine_of_Hippo @http://xmlns.com/foaf/0.1/surname "Augustine of Hippo"@en
+http://dbpedia.org/resource/Augustine_of_Hippo @http://xmlns.com/foaf/0.1/givenName "Saint"@en
+http://dbpedia.org/resource/Augustine_of_Hippo @dc:description "Christian theologian, bishop, philosopher and saint"@en
+http://dbpedia.org/resource/Augustine_of_Hippo @http://dbpedia.org/ontology/birthDate "0354-11-13"^^http://www.w3.org/2001/XMLSchema#date
+http://dbpedia.org/resource/Augustine_of_Hippo @http://dbpedia.org/ontology/deathDate "0430-08-28"^^http://www.w3.org/2001/XMLSchema#date
+http://dbpedia.org/resource/August_Horch @http://xmlns.com/foaf/0.1/name "August Horch"@en
+http://dbpedia.org/resource/August_Horch @http://xmlns.com/foaf/0.1/surname "Horch"@en
+http://dbpedia.org/resource/August_Horch @http://xmlns.com/foaf/0.1/givenName "August"@en
+http://dbpedia.org/resource/August_Horch @dc:description "German engineer and automobile pioneer"@en
+http://dbpedia.org/resource/August_Horch @http://dbpedia.org/ontology/birthDate "1868-10-12"^^http://www.w3.org/2001/XMLSchema#date
+http://dbpedia.org/resource/August_Horch @http://dbpedia.org/ontology/deathDate "1951-02-03"^^http://www.w3.org/2001/XMLSchema#date
+http://dbpedia.org/resource/Alexander_Grothendieck @http://xmlns.com/foaf/0.1/name "Alexander Grothendieck"@en
+http://dbpedia.org/resource/Alexander_Grothendieck @http://xmlns.com/foaf/0.1/surname "Grothendieck"@en
+http://dbpedia.org/resource/Alexander_Grothendieck @http://xmlns.com/foaf/0.1/givenName "Alexander"@en
+http://dbpedia.org/resource/Alexander_Grothendieck @dc:description "Mathematician"@en
+http://dbpedia.org/resource/Alexander_Grothendieck @http://dbpedia.org/ontology/birthDate "1928-03-28"^^http://www.w3.org/2001/XMLSchema#date
+http://dbpedia.org/resource/Alexander_Grothendieck @http://dbpedia.org/ontology/deathDate "2014-11-13"^^http://www.w3.org/2001/XMLSchema#date
+http://dbpedia.org/resource/Adalbert_of_Prague @http://xmlns.com/foaf/0.1/name "St. Adalbert of Prague"@en
+http://dbpedia.org/resource/Adalbert_of_Prague @dc:description "Roman Catholic Saint"@en
+http://dbpedia.org/resource/Adalbert_of_Prague @http://dbpedia.org/ontology/birthDate "0956"^^http://www.w3.org/2001/XMLSchema#gYear
+http://dbpedia.org/resource/Adalbert_of_Prague @http://dbpedia.org/ontology/deathDate "0997-04-23"^^http://www.w3.org/2001/XMLSchema#date
+http://dbpedia.org/resource/Andrew_Tridgell @http://xmlns.com/foaf/0.1/name "Andrew Tridgell"@en
+http://dbpedia.org/resource/Andrew_Tridgell @http://xmlns.com/foaf/0.1/surname "Tridgell"@en
+http://dbpedia.org/resource/Andrew_Tridgell @http://xmlns.com/foaf/0.1/givenName "Andrew"@en
+http://dbpedia.org/resource/Andrew_Tridgell @dc:description "Australian computer programmer"@en
+http://dbpedia.org/resource/Andrew_Tridgell @http://dbpedia.org/ontology/birthDate "1967-02-28"^^http://www.w3.org/2001/XMLSchema#date
+http://dbpedia.org/resource/Auguste_Rodin @http://xmlns.com/foaf/0.1/name "Auguste Rodin"@en
+http://dbpedia.org/resource/Auguste_Rodin @http://xmlns.com/foaf/0.1/surname "Rodin"@en
+http://dbpedia.org/resource/Auguste_Rodin @http://xmlns.com/foaf/0.1/givenName "Auguste"@en
+http://dbpedia.org/resource/Auguste_Rodin @dc:description "French sculptor of The Thinker and The Kiss"@en
+http://dbpedia.org/resource/Auguste_Rodin @http://dbpedia.org/ontology/birthDate "1840-11-12"^^http://www.w3.org/2001/XMLSchema#date
+http://dbpedia.org/resource/Auguste_Rodin @http://dbpedia.org/ontology/deathDate "1917-11-01"^^http://www.w3.org/2001/XMLSchema#date
+http://dbpedia.org/resource/Adam_Weishaupt @http://xmlns.com/foaf/0.1/name "Johann Adam Weishaupt"@en
+http://dbpedia.org/resource/Adam_Weishaupt @http://xmlns.com/foaf/0.1/surname "Weishaupt"@en
+http://dbpedia.org/resource/Adam_Weishaupt @http://xmlns.com/foaf/0.1/givenName "Johann Adam"@en
+http://dbpedia.org/resource/Adam_Weishaupt @dc:description "founder of the Order of Illuminati"@en
+http://dbpedia.org/resource/Adam_Weishaupt @http://dbpedia.org/ontology/birthDate "1748-02-07"^^http://www.w3.org/2001/XMLSchema#date
+http://dbpedia.org/resource/Adam_Weishaupt @http://dbpedia.org/ontology/deathDate "1830-11-18"^^http://www.w3.org/2001/XMLSchema#date
+http://dbpedia.org/resource/Amerigo_Vespucci @http://xmlns.com/foaf/0.1/name "Amerigo Vespucci"@en
+http://dbpedia.org/resource/Amerigo_Vespucci @http://xmlns.com/foaf/0.1/surname "Vespucci"@en
+http://dbpedia.org/resource/Amerigo_Vespucci @http://xmlns.com/foaf/0.1/givenName "Amerigo"@en
+http://dbpedia.org/resource/Amerigo_Vespucci @dc:description "Italian explorer"@en
+http://dbpedia.org/resource/Amerigo_Vespucci @http://dbpedia.org/ontology/birthDate "1454-03-09"^^http://www.w3.org/2001/XMLSchema#date
+http://dbpedia.org/resource/Amerigo_Vespucci @http://dbpedia.org/ontology/deathDate "1512-02-22"^^http://www.w3.org/2001/XMLSchema#date
+http://dbpedia.org/resource/Antonio_Canova @http://xmlns.com/foaf/0.1/name "Antonio Canova"@en
+http://dbpedia.org/resource/Antonio_Canova @http://xmlns.com/foaf/0.1/surname "Canova"@en
+http://dbpedia.org/resource/Antonio_Canova @http://xmlns.com/foaf/0.1/givenName "Antonio"@en
+http://dbpedia.org/resource/Antonio_Canova @dc:description "Italian artist"@en
+http://dbpedia.org/resource/Antonio_Canova @http://dbpedia.org/ontology/birthDate "1757-11-01"^^http://www.w3.org/2001/XMLSchema#date
+http://dbpedia.org/resource/Antonio_Canova @http://dbpedia.org/ontology/deathDate "1822-10-13"^^http://www.w3.org/2001/XMLSchema#date
+http://dbpedia.org/resource/Ahmad_Shah_Massoud @http://xmlns.com/foaf/0.1/name "Ahmad Shah Massoud"@en
+http://dbpedia.org/resource/Ahmad_Shah_Massoud @http://xmlns.com/foaf/0.1/surname "Massoud"@en
+http://dbpedia.org/resource/Ahmad_Shah_Massoud @http://xmlns.com/foaf/0.1/givenName "Ahmad Shah"@en
+http://dbpedia.org/resource/Ahmad_Shah_Massoud @dc:description "Afghan military leader"@en
+http://dbpedia.org/resource/Ahmad_Shah_Massoud @http://dbpedia.org/ontology/birthDate "1953-09-02"^^http://www.w3.org/2001/XMLSchema#date
+http://dbpedia.org/resource/Ahmad_Shah_Massoud @http://dbpedia.org/ontology/deathDate "2001-09-09"^^http://www.w3.org/2001/XMLSchema#date
+http://dbpedia.org/resource/Arcadius @http://xmlns.com/foaf/0.1/name "Arcadius"@en
+http://dbpedia.org/resource/Arcadius @dc:description "Roman Emperor"@en
+http://dbpedia.org/resource/Arcadius @http://dbpedia.org/ontology/deathDate "0408-05-01"^^http://www.w3.org/2001/XMLSchema#date
+http://dbpedia.org/resource/Abdulaziz_al-Omari @http://xmlns.com/foaf/0.1/name "Abdulaziz al- Omari"@en
+http://dbpedia.org/resource/Abdulaziz_al-Omari @http://xmlns.com/foaf/0.1/surname "Omari"@en
+http://dbpedia.org/resource/Abdulaziz_al-Omari @http://xmlns.com/foaf/0.1/givenName "Abdulaziz al-"@en
+http://dbpedia.org/resource/Abdulaziz_al-Omari @dc:description "9/11 hijacker"@en
+http://dbpedia.org/resource/Abdulaziz_al-Omari @http://dbpedia.org/ontology/birthDate "1979-05-28"^^http://www.w3.org/2001/XMLSchema#date
+http://dbpedia.org/resource/Abdulaziz_al-Omari @http://dbpedia.org/ontology/deathDate "2001-09-11"^^http://www.w3.org/2001/XMLSchema#date
+http://dbpedia.org/resource/Ælle_of_Sussex @http://xmlns.com/foaf/0.1/name "Ælle"@en
+http://dbpedia.org/resource/Ælle_of_Sussex @dc:description "First king of the South Saxons"@en
+http://dbpedia.org/resource/Aaliyah @http://xmlns.com/foaf/0.1/name "Aaliyah"@en
+http://dbpedia.org/resource/Aaliyah @dc:description "Singer, dancer, actress, model"@en
+http://dbpedia.org/resource/Aaliyah @http://dbpedia.org/ontology/birthDate "1979-01-16"^^http://www.w3.org/2001/XMLSchema#date
+http://dbpedia.org/resource/Aaliyah @http://dbpedia.org/ontology/deathDate "2001-08-25"^^http://www.w3.org/2001/XMLSchema#date
+http://dbpedia.org/resource/Anton_Drexler @http://xmlns.com/foaf/0.1/name "Anton Drexler"@en
+http://dbpedia.org/resource/Anton_Drexler @http://xmlns.com/foaf/0.1/surname "Drexler"@en
+http://dbpedia.org/resource/Anton_Drexler @http://xmlns.com/foaf/0.1/givenName "Anton"@en
+http://dbpedia.org/resource/Anton_Drexler @dc:description "Politician"@en
+http://dbpedia.org/resource/Anton_Drexler @http://dbpedia.org/ontology/birthDate "1884-06-13"^^http://www.w3.org/2001/XMLSchema#date
+http://dbpedia.org/resource/Anton_Drexler @http://dbpedia.org/ontology/deathDate "1942-02-24"^^http://www.w3.org/2001/XMLSchema#date
+http://dbpedia.org/resource/Ani_DiFranco @http://xmlns.com/foaf/0.1/name "Ani DiFranco"@en
+http://dbpedia.org/resource/Ani_DiFranco @http://xmlns.com/foaf/0.1/surname "DiFranco"@en
+http://dbpedia.org/resource/Ani_DiFranco @http://xmlns.com/foaf/0.1/givenName "Ani"@en
+http://dbpedia.org/resource/Ani_DiFranco @dc:description "musician and activist"@en
+http://dbpedia.org/resource/Ani_DiFranco @http://dbpedia.org/ontology/birthDate "1970-09-23"^^http://www.w3.org/2001/XMLSchema#date
+http://dbpedia.org/resource/Arthur_Eddington @http://xmlns.com/foaf/0.1/name "Arthur Eddington"@en
+http://dbpedia.org/resource/Arthur_Eddington @http://xmlns.com/foaf/0.1/surname "Eddington"@en
+http://dbpedia.org/resource/Arthur_Eddington @http://xmlns.com/foaf/0.1/givenName "Arthur"@en
+http://dbpedia.org/resource/Arthur_Eddington @dc:description "English Astrophysicist"@en
+http://dbpedia.org/resource/Arthur_Eddington @http://dbpedia.org/ontology/birthDate "1882-12-28"^^http://www.w3.org/2001/XMLSchema#date
+http://dbpedia.org/resource/Arthur_Eddington @http://dbpedia.org/ontology/deathDate "1944-11-22"^^http://www.w3.org/2001/XMLSchema#date
+http://dbpedia.org/resource/Alexis_Korner @http://xmlns.com/foaf/0.1/name "Alexis Korner"@en
+http://dbpedia.org/resource/Alexis_Korner @http://xmlns.com/foaf/0.1/surname "Korner"@en
+http://dbpedia.org/resource/Alexis_Korner @http://xmlns.com/foaf/0.1/givenName "Alexis"@en
+http://dbpedia.org/resource/Alexis_Korner @dc:description "British blues musician and radio broadcaster"@en
+http://dbpedia.org/resource/Alexis_Korner @http://dbpedia.org/ontology/birthDate "1928-04-19"^^http://www.w3.org/2001/XMLSchema#date
+http://dbpedia.org/resource/Alexis_Korner @http://dbpedia.org/ontology/deathDate "1984-01-01"^^http://www.w3.org/2001/XMLSchema#date
+http://dbpedia.org/resource/Antonio_Salieri @http://xmlns.com/foaf/0.1/name "Antonio Salieri"@en
+http://dbpedia.org/resource/Antonio_Salieri @http://xmlns.com/foaf/0.1/surname "Salieri"@en
+http://dbpedia.org/resource/Antonio_Salieri @http://xmlns.com/foaf/0.1/givenName "Antonio"@en
+http://dbpedia.org/resource/Antonio_Salieri @dc:description "Composer, conductor"@en
+http://dbpedia.org/resource/Antonio_Salieri @http://dbpedia.org/ontology/birthDate "1750-08-18"^^http://www.w3.org/2001/XMLSchema#date
+http://dbpedia.org/resource/Antonio_Salieri @http://dbpedia.org/ontology/deathDate "1825-05-07"^^http://www.w3.org/2001/XMLSchema#date
+http://dbpedia.org/resource/Saint_Titus @http://xmlns.com/foaf/0.1/name "Apostle Titus"@en
+http://dbpedia.org/resource/Saint_Titus @http://xmlns.com/foaf/0.1/surname "Titus"@en
+http://dbpedia.org/resource/Saint_Titus @http://xmlns.com/foaf/0.1/givenName "Apostle"@en
+http://dbpedia.org/resource/Saint_Titus @dc:description "Greek saint"@en
+http://dbpedia.org/resource/Saint_Titus @http://dbpedia.org/ontology/deathDate "0107"^^http://www.w3.org/2001/XMLSchema#gYear
+http://dbpedia.org/resource/Anita_Hill @http://xmlns.com/foaf/0.1/name "Anita Hill"@en
+http://dbpedia.org/resource/Anita_Hill @http://xmlns.com/foaf/0.1/surname "Hill"@en
+http://dbpedia.org/resource/Anita_Hill @http://xmlns.com/foaf/0.1/givenName "Anita"@en
+http://dbpedia.org/resource/Anita_Hill @dc:description "Law professor; witness in Clarence Thomas controversy"@en
+http://dbpedia.org/resource/Anita_Hill @http://dbpedia.org/ontology/birthDate "1956-07-30"^^http://www.w3.org/2001/XMLSchema#date
+http://dbpedia.org/resource/Arthur_Miller @http://xmlns.com/foaf/0.1/name "Arthur Miller"@en
+http://dbpedia.org/resource/Arthur_Miller @http://xmlns.com/foaf/0.1/surname "Miller"@en
+http://dbpedia.org/resource/Arthur_Miller @http://xmlns.com/foaf/0.1/givenName "Arthur"@en
+http://dbpedia.org/resource/Arthur_Miller @dc:description "American playwright and essayist"@en
+http://dbpedia.org/resource/Arthur_Miller @http://dbpedia.org/ontology/birthDate "1915-10-17"^^http://www.w3.org/2001/XMLSchema#date
+http://dbpedia.org/resource/Arthur_Miller @http://dbpedia.org/ontology/deathDate "2005-02-10"^^http://www.w3.org/2001/XMLSchema#date
+http://dbpedia.org/resource/Alfonso_Leng @http://xmlns.com/foaf/0.1/name "Alfonso Leng"@en
+http://dbpedia.org/resource/Alfonso_Leng @http://xmlns.com/foaf/0.1/surname "Leng"@en
+http://dbpedia.org/resource/Alfonso_Leng @http://xmlns.com/foaf/0.1/givenName "Alfonso"@en
+http://dbpedia.org/resource/Alfonso_Leng @dc:description "Chilean musician"@en
+http://dbpedia.org/resource/Alfonso_Leng @http://dbpedia.org/ontology/birthDate "1884-02-11"^^http://www.w3.org/2001/XMLSchema#date
+http://dbpedia.org/resource/Alfonso_Leng @http://dbpedia.org/ontology/deathDate "1974-11-11"^^http://www.w3.org/2001/XMLSchema#date
+http://dbpedia.org/resource/Albrecht_Dürer @http://xmlns.com/foaf/0.1/name "Albrecht Dürer"@en
+http://dbpedia.org/resource/Albrecht_Dürer @http://xmlns.com/foaf/0.1/surname "Dürer"@en
+http://dbpedia.org/resource/Albrecht_Dürer @http://xmlns.com/foaf/0.1/givenName "Albrecht"@en
+http://dbpedia.org/resource/Albrecht_Dürer @dc:description "German artist and mathematician"@en
+http://dbpedia.org/resource/Albrecht_Dürer @http://dbpedia.org/ontology/birthDate "1471-05-21"^^http://www.w3.org/2001/XMLSchema#date
+http://dbpedia.org/resource/Albrecht_Dürer @http://dbpedia.org/ontology/deathDate "1528-04-06"^^http://www.w3.org/2001/XMLSchema#date
+http://dbpedia.org/resource/Ardal_O'Hanlon @http://xmlns.com/foaf/0.1/name "Ardal O'Hanlon"@en
+http://dbpedia.org/resource/Ardal_O'Hanlon @http://xmlns.com/foaf/0.1/surname "O'Hanlon"@en
+http://dbpedia.org/resource/Ardal_O'Hanlon @http://xmlns.com/foaf/0.1/givenName "Ardal"@en
+http://dbpedia.org/resource/Ardal_O'Hanlon @dc:description "Irish comedian"@en
+http://dbpedia.org/resource/Ardal_O'Hanlon @http://dbpedia.org/ontology/birthDate "1965-10-08"^^http://www.w3.org/2001/XMLSchema#date
+http://dbpedia.org/resource/Anthony_Hopkins @http://xmlns.com/foaf/0.1/name "Anthony Hopkins"@en
+http://dbpedia.org/resource/Anthony_Hopkins @http://xmlns.com/foaf/0.1/surname "Hopkins"@en
+http://dbpedia.org/resource/Anthony_Hopkins @http://xmlns.com/foaf/0.1/givenName "Anthony"@en
+http://dbpedia.org/resource/Anthony_Hopkins @dc:description "Actor"@en
+http://dbpedia.org/resource/Anthony_Hopkins @http://dbpedia.org/ontology/birthDate "1937-12-31"^^http://www.w3.org/2001/XMLSchema#date
+http://dbpedia.org/resource/Albert_Pike @http://xmlns.com/foaf/0.1/name "Albert Pike"@en
+http://dbpedia.org/resource/Albert_Pike @http://xmlns.com/foaf/0.1/surname "Pike"@en
+http://dbpedia.org/resource/Albert_Pike @http://xmlns.com/foaf/0.1/givenName "Albert"@en
+http://dbpedia.org/resource/Albert_Pike @dc:description "Confederate States Army general and Freemason"@en
+http://dbpedia.org/resource/Albert_Pike @http://dbpedia.org/ontology/birthDate "1809-12-29"^^http://www.w3.org/2001/XMLSchema#date
+http://dbpedia.org/resource/Albert_Pike @http://dbpedia.org/ontology/deathDate "1891-04-02"^^http://www.w3.org/2001/XMLSchema#date
+http://dbpedia.org/resource/Akio_Morita @http://xmlns.com/foaf/0.1/name "Akio Morita"@en
+http://dbpedia.org/resource/Akio_Morita @http://xmlns.com/foaf/0.1/surname "Morita"@en
+http://dbpedia.org/resource/Akio_Morita @http://xmlns.com/foaf/0.1/givenName "Akio"@en
+http://dbpedia.org/resource/Akio_Morita @dc:description "Japanese businessman"@en
+http://dbpedia.org/resource/Akio_Morita @http://dbpedia.org/ontology/birthDate "1921-01-26"^^http://www.w3.org/2001/XMLSchema#date
+http://dbpedia.org/resource/Akio_Morita @http://dbpedia.org/ontology/deathDate "1999-10-03"^^http://www.w3.org/2001/XMLSchema#date
+http://dbpedia.org/resource/Alois_Alzheimer @http://xmlns.com/foaf/0.1/name "Alois Alzheimer"@en
+http://dbpedia.org/resource/Alois_Alzheimer @http://xmlns.com/foaf/0.1/surname "Alzheimer"@en
+http://dbpedia.org/resource/Alois_Alzheimer @http://xmlns.com/foaf/0.1/givenName "Alois"@en
+http://dbpedia.org/resource/Alois_Alzheimer @dc:description "German psychiatrist and neuropathologist"@en
+http://dbpedia.org/resource/Alois_Alzheimer @http://dbpedia.org/ontology/birthDate "1864-06-14"^^http://www.w3.org/2001/XMLSchema#date
+http://dbpedia.org/resource/Alois_Alzheimer @http://dbpedia.org/ontology/deathDate "1915-12-19"^^http://www.w3.org/2001/XMLSchema#date
+http://dbpedia.org/resource/Abdul_Rashid_Dostum @http://xmlns.com/foaf/0.1/name "Abdul Rashid Dostum"@en
+http://dbpedia.org/resource/Abdul_Rashid_Dostum @http://xmlns.com/foaf/0.1/surname "Dostum"@en
+http://dbpedia.org/resource/Abdul_Rashid_Dostum @http://xmlns.com/foaf/0.1/givenName "Abdul Rashid"@en
+http://dbpedia.org/resource/Abdul_Rashid_Dostum @dc:description "Afghan warlord"@en
+http://dbpedia.org/resource/Abdul_Rashid_Dostum @http://dbpedia.org/ontology/birthDate "1954"^^http://www.w3.org/2001/XMLSchema#gYear
+http://dbpedia.org/resource/Andreas_Aagesen @http://xmlns.com/foaf/0.1/name "Andreas Aagesen"@en
+http://dbpedia.org/resource/Andreas_Aagesen @http://xmlns.com/foaf/0.1/surname "Aagesen"@en
+http://dbpedia.org/resource/Andreas_Aagesen @http://xmlns.com/foaf/0.1/givenName "Andreas"@en
+http://dbpedia.org/resource/Andreas_Aagesen @dc:description "Danish jurist"@en
+http://dbpedia.org/resource/Andreas_Aagesen @http://dbpedia.org/ontology/birthDate "1826-08-05"^^http://www.w3.org/2001/XMLSchema#date
+http://dbpedia.org/resource/Andreas_Aagesen @http://dbpedia.org/ontology/deathDate "1879-10-26"^^http://www.w3.org/2001/XMLSchema#date
+http://dbpedia.org/resource/Avery_Hopwood @http://xmlns.com/foaf/0.1/name "James Avery Hopwood"@en
+http://dbpedia.org/resource/Avery_Hopwood @http://xmlns.com/foaf/0.1/surname "Hopwood"@en
+http://dbpedia.org/resource/Avery_Hopwood @http://xmlns.com/foaf/0.1/givenName "James Avery"@en
+http://dbpedia.org/resource/Avery_Hopwood @dc:description "American playwright"@en
+http://dbpedia.org/resource/Avery_Hopwood @http://dbpedia.org/ontology/birthDate "1882-05-28"^^http://www.w3.org/2001/XMLSchema#date
+http://dbpedia.org/resource/Avery_Hopwood @http://dbpedia.org/ontology/deathDate "1928-07-01"^^http://www.w3.org/2001/XMLSchema#date
+http://dbpedia.org/resource/Antipope_Felix_II @http://xmlns.com/foaf/0.1/name "Felix, Antipope, Ii"@en
+http://dbpedia.org/resource/Antipope_Felix_II @dc:description "Antipope"@en
+http://dbpedia.org/resource/Antipope_Felix_II @http://dbpedia.org/ontology/deathDate "0365"^^http://www.w3.org/2001/XMLSchema#gYear
+http://dbpedia.org/resource/Anton_Chekhov @http://xmlns.com/foaf/0.1/name "Anton Pavlovich Chekhov"@en
+http://dbpedia.org/resource/Anton_Chekhov @http://xmlns.com/foaf/0.1/surname "Chekhov"@en
+http://dbpedia.org/resource/Anton_Chekhov @http://xmlns.com/foaf/0.1/givenName "Anton Pavlovich"@en
+http://dbpedia.org/resource/Anton_Chekhov @dc:description "Doctor, short-story writer, playwright"@en
+http://dbpedia.org/resource/Anton_Chekhov @http://dbpedia.org/ontology/birthDate "1860-01-29"^^http://www.w3.org/2001/XMLSchema#date
+http://dbpedia.org/resource/Anton_Chekhov @http://dbpedia.org/ontology/deathDate "1904-07-15"^^http://www.w3.org/2001/XMLSchema#date
+http://dbpedia.org/resource/Albrecht_Altdorfer @http://xmlns.com/foaf/0.1/name "Albrecht Altdorfer"@en
+http://dbpedia.org/resource/Albrecht_Altdorfer @http://xmlns.com/foaf/0.1/surname "Altdorfer"@en
+http://dbpedia.org/resource/Albrecht_Altdorfer @http://xmlns.com/foaf/0.1/givenName "Albrecht"@en
+http://dbpedia.org/resource/Albrecht_Altdorfer @dc:description "German renaissance painter"@en
+http://dbpedia.org/resource/Albrecht_Altdorfer @http://dbpedia.org/ontology/birthDate "1480"^^http://www.w3.org/2001/XMLSchema#gYear
+http://dbpedia.org/resource/Albrecht_Altdorfer @http://dbpedia.org/ontology/deathDate "1583-02-12"^^http://www.w3.org/2001/XMLSchema#date
+http://dbpedia.org/resource/Alberto_Giacometti @http://xmlns.com/foaf/0.1/name "Alberto Giacometti"@en
+http://dbpedia.org/resource/Alberto_Giacometti @http://xmlns.com/foaf/0.1/surname "Giacometti"@en
+http://dbpedia.org/resource/Alberto_Giacometti @http://xmlns.com/foaf/0.1/givenName "Alberto"@en
+http://dbpedia.org/resource/Alberto_Giacometti @dc:description "Swiss artist"@en
+http://dbpedia.org/resource/Alberto_Giacometti @http://dbpedia.org/ontology/birthDate "1901-10-10"^^http://www.w3.org/2001/XMLSchema#date
+http://dbpedia.org/resource/Alberto_Giacometti @http://dbpedia.org/ontology/deathDate "1966-01-11"^^http://www.w3.org/2001/XMLSchema#date
+http://dbpedia.org/resource/Aurangzeb @http://xmlns.com/foaf/0.1/name "Aurangzeb"@en
+http://dbpedia.org/resource/Aurangzeb @dc:description "Mughal empreror"@en
+http://dbpedia.org/resource/Aurangzeb @http://dbpedia.org/ontology/birthDate "1618-11-04"^^http://www.w3.org/2001/XMLSchema#date
+http://dbpedia.org/resource/Aurangzeb @http://dbpedia.org/ontology/deathDate "1707-03-03"^^http://www.w3.org/2001/XMLSchema#date
+http://dbpedia.org/resource/Ann_Widdecombe @http://xmlns.com/foaf/0.1/name "Ann Noreen Widdecombe"@en
+http://dbpedia.org/resource/Ann_Widdecombe @http://xmlns.com/foaf/0.1/surname "Widdecombe"@en
+http://dbpedia.org/resource/Ann_Widdecombe @http://xmlns.com/foaf/0.1/givenName "Ann Noreen"@en
+http://dbpedia.org/resource/Ann_Widdecombe @dc:description "British Conservative Party MP and former government Minister (1995–1997)"@en
+http://dbpedia.org/resource/Ann_Widdecombe @http://dbpedia.org/ontology/birthDate "1947-10-04"^^http://www.w3.org/2001/XMLSchema#date
+http://dbpedia.org/resource/Alban_Berg @http://xmlns.com/foaf/0.1/name "Alban Berg"@en
+http://dbpedia.org/resource/Alban_Berg @http://xmlns.com/foaf/0.1/surname "Berg"@en
+http://dbpedia.org/resource/Alban_Berg @http://xmlns.com/foaf/0.1/givenName "Alban"@en
+http://dbpedia.org/resource/Alban_Berg @dc:description "Composer"@en
+http://dbpedia.org/resource/Alban_Berg @http://dbpedia.org/ontology/birthDate "1885-02-09"^^http://www.w3.org/2001/XMLSchema#date
+http://dbpedia.org/resource/Alban_Berg @http://dbpedia.org/ontology/deathDate "1935-12-24"^^http://www.w3.org/2001/XMLSchema#date
+http://dbpedia.org/resource/Ambrosius_Bosschaert @http://xmlns.com/foaf/0.1/name "Ambrosius Bosschaert"@en
+http://dbpedia.org/resource/Ambrosius_Bosschaert @http://xmlns.com/foaf/0.1/surname "Bosschaert"@en
+http://dbpedia.org/resource/Ambrosius_Bosschaert @http://xmlns.com/foaf/0.1/givenName "Ambrosius"@en
+http://dbpedia.org/resource/Ambrosius_Bosschaert @dc:description "painter"@en
+http://dbpedia.org/resource/Ambrosius_Bosschaert @http://dbpedia.org/ontology/birthDate "1573-01-18"^^http://www.w3.org/2001/XMLSchema#date
+http://dbpedia.org/resource/Ambrosius_Bosschaert @http://dbpedia.org/ontology/deathDate "1621"^^http://www.w3.org/2001/XMLSchema#gYear
+http://dbpedia.org/resource/Adam_of_Bremen @http://xmlns.com/foaf/0.1/name "Adam Of Bremen"@en
+http://dbpedia.org/resource/Adam_of_Bremen @dc:description "German chronicler"@en
+http://dbpedia.org/resource/Ansgar @http://xmlns.com/foaf/0.1/name "Ansgar"@en
+http://dbpedia.org/resource/Ansgar @dc:description "Saint"@en
+http://dbpedia.org/resource/Ansgar @http://dbpedia.org/ontology/birthDate "0801"^^http://www.w3.org/2001/XMLSchema#gYear
+http://dbpedia.org/resource/Ansgar @http://dbpedia.org/ontology/deathDate "0865-02-03"^^http://www.w3.org/2001/XMLSchema#date
+http://dbpedia.org/resource/Alexander_Kerensky @http://xmlns.com/foaf/0.1/name "Alexander Kerensky"@en
+http://dbpedia.org/resource/Alexander_Kerensky @http://xmlns.com/foaf/0.1/surname "Kerensky"@en
+http://dbpedia.org/resource/Alexander_Kerensky @http://xmlns.com/foaf/0.1/givenName "Alexander"@en
+http://dbpedia.org/resource/Alexander_Kerensky @dc:description "Russian politician"@en
+http://dbpedia.org/resource/Alexander_Kerensky @http://dbpedia.org/ontology/birthDate "1881-05-02"^^http://www.w3.org/2001/XMLSchema#date
+http://dbpedia.org/resource/Alexander_Kerensky @http://dbpedia.org/ontology/deathDate "1970-06-11"^^http://www.w3.org/2001/XMLSchema#date
+http://dbpedia.org/resource/Adelaide_of_Italy @http://xmlns.com/foaf/0.1/name "Adelaide Of Italy"@en
+http://dbpedia.org/resource/Adelaide_of_Italy @dc:description "Holy Roman Empress"@en
+http://dbpedia.org/resource/Adelaide_of_Italy @http://dbpedia.org/ontology/birthDate "0931"^^http://www.w3.org/2001/XMLSchema#gYear
+http://dbpedia.org/resource/Adelaide_of_Italy @http://dbpedia.org/ontology/deathDate "0999-12-16"^^http://www.w3.org/2001/XMLSchema#date
+http://dbpedia.org/resource/Agostino_Carracci @http://xmlns.com/foaf/0.1/name "Agostino Carracci"@en
+http://dbpedia.org/resource/Agostino_Carracci @http://xmlns.com/foaf/0.1/surname "Carracci"@en
+http://dbpedia.org/resource/Agostino_Carracci @http://xmlns.com/foaf/0.1/givenName "Agostino"@en
+http://dbpedia.org/resource/Agostino_Carracci @dc:description "Italian painter"@en
+http://dbpedia.org/resource/Agostino_Carracci @http://dbpedia.org/ontology/birthDate "1557-08-16"^^http://www.w3.org/2001/XMLSchema#date
+http://dbpedia.org/resource/Agostino_Carracci @http://dbpedia.org/ontology/deathDate "1602-03-22"^^http://www.w3.org/2001/XMLSchema#date
+http://dbpedia.org/resource/André_the_Giant @http://xmlns.com/foaf/0.1/name "André The Giant"@en
+http://dbpedia.org/resource/André_the_Giant @dc:description "professional wrestler and actor"@en
+http://dbpedia.org/resource/André_the_Giant @http://dbpedia.org/ontology/birthDate "1946-05-19"^^http://www.w3.org/2001/XMLSchema#date
+http://dbpedia.org/resource/André_the_Giant @http://dbpedia.org/ontology/deathDate "1993-01-27"^^http://www.w3.org/2001/XMLSchema#date
+http://dbpedia.org/resource/Arthur_Phillip @http://xmlns.com/foaf/0.1/name "Arthur Phillip"@en
+http://dbpedia.org/resource/Arthur_Phillip @http://xmlns.com/foaf/0.1/surname "Phillip"@en
+http://dbpedia.org/resource/Arthur_Phillip @http://xmlns.com/foaf/0.1/givenName "Arthur"@en
+http://dbpedia.org/resource/Arthur_Phillip @dc:description "British naval officer; Governor of New South Wales"@en
+http://dbpedia.org/resource/Arthur_Phillip @http://dbpedia.org/ontology/birthDate "1738-10-11"^^http://www.w3.org/2001/XMLSchema#date
+http://dbpedia.org/resource/Arthur_Phillip @http://dbpedia.org/ontology/deathDate "1814-08-31"^^http://www.w3.org/2001/XMLSchema#date
+http://dbpedia.org/resource/Abba_Mari @http://xmlns.com/foaf/0.1/name "Abba Mari"@en
+http://dbpedia.org/resource/Abba_Mari @http://xmlns.com/foaf/0.1/surname "Mari"@en
+http://dbpedia.org/resource/Abba_Mari @http://xmlns.com/foaf/0.1/givenName "Abba"@en
+http://dbpedia.org/resource/Abba_Mari @dc:description "French rabbi"@en
+http://dbpedia.org/resource/Aedesius @http://xmlns.com/foaf/0.1/name "Aedesius"@en
+http://dbpedia.org/resource/Aedesius @dc:description "Roman philosopher"@en
+http://dbpedia.org/resource/Aedesius @http://dbpedia.org/ontology/deathDate "0355"^^http://www.w3.org/2001/XMLSchema#gYear
+http://dbpedia.org/resource/Abd_ar-Rahman_II @http://xmlns.com/foaf/0.1/name "Abd Ar-Rahman Ii"@en
+http://dbpedia.org/resource/Abd_ar-Rahman_II @http://xmlns.com/foaf/0.1/surname "Ar-Rahman Ii"@en
+http://dbpedia.org/resource/Abd_ar-Rahman_II @http://xmlns.com/foaf/0.1/givenName "Abd"@en
+http://dbpedia.org/resource/Abd_ar-Rahman_II @dc:description "Emir of Cordoba"@en
+http://dbpedia.org/resource/Abd_ar-Rahman_II @http://dbpedia.org/ontology/birthDate "0788"^^http://www.w3.org/2001/XMLSchema#gYear
+http://dbpedia.org/resource/Abd_ar-Rahman_II @http://dbpedia.org/ontology/deathDate "0852"^^http://www.w3.org/2001/XMLSchema#gYear
+http://dbpedia.org/resource/Abd_ar-Rahman_IV @http://xmlns.com/foaf/0.1/name "Abd Ar-Rahman IV"@en
+http://dbpedia.org/resource/Abd_ar-Rahman_IV @dc:description "Caliph of Cordoba"@en
+http://dbpedia.org/resource/Abd_ar-Rahman_IV @http://dbpedia.org/ontology/deathDate "1018"^^http://www.w3.org/2001/XMLSchema#gYear
+http://dbpedia.org/resource/Abd_al-Latif_al-Baghdadi_(medieval_writer) @http://xmlns.com/foaf/0.1/name "Latif"@en
+http://dbpedia.org/resource/Abd_al-Latif_al-Baghdadi_(medieval_writer) @dc:description "Iraqi Egyptologist"@en
+http://dbpedia.org/resource/Abd_al-Latif_al-Baghdadi_(medieval_writer) @http://dbpedia.org/ontology/birthDate "1162"^^http://www.w3.org/2001/XMLSchema#gYear
+http://dbpedia.org/resource/Abd_al-Latif_al-Baghdadi_(medieval_writer) @http://dbpedia.org/ontology/deathDate "1231"^^http://www.w3.org/2001/XMLSchema#gYear
+http://dbpedia.org/resource/Abba_Arika @http://xmlns.com/foaf/0.1/name "Abba Arika"@en
+http://dbpedia.org/resource/Abba_Arika @http://xmlns.com/foaf/0.1/surname "Arika"@en
+http://dbpedia.org/resource/Abba_Arika @http://xmlns.com/foaf/0.1/givenName "Abba"@en
+http://dbpedia.org/resource/Abba_Arika @dc:description "Rabbi"@en
+http://dbpedia.org/resource/Abba_Arika @http://dbpedia.org/ontology/birthDate "0175"^^http://www.w3.org/2001/XMLSchema#gYear
+http://dbpedia.org/resource/Abba_Arika @http://dbpedia.org/ontology/deathDate "0247"^^http://www.w3.org/2001/XMLSchema#gYear
+http://dbpedia.org/resource/Abbahu @http://xmlns.com/foaf/0.1/name "Abbahu"@en
+http://dbpedia.org/resource/Abbahu @dc:description "Talmudist"@en
+http://dbpedia.org/resource/Arthur_St._Clair @http://xmlns.com/foaf/0.1/name "Arthur St. Clair"@en
+http://dbpedia.org/resource/Arthur_St._Clair @http://xmlns.com/foaf/0.1/surname "St. Clair"@en
+http://dbpedia.org/resource/Arthur_St._Clair @http://xmlns.com/foaf/0.1/givenName "Arthur"@en
+http://dbpedia.org/resource/Arthur_St._Clair @dc:description "Continental Army general"@en
+http://dbpedia.org/resource/Arthur_St._Clair @http://dbpedia.org/ontology/birthDate "1737-03-23"^^http://www.w3.org/2001/XMLSchema#date
+http://dbpedia.org/resource/Arthur_St._Clair @http://dbpedia.org/ontology/deathDate "1818-08-31"^^http://www.w3.org/2001/XMLSchema#date
+http://dbpedia.org/resource/Abbas_Mirza @http://xmlns.com/foaf/0.1/name "Abbas Mirza"@en
+http://dbpedia.org/resource/Abbas_Mirza @http://xmlns.com/foaf/0.1/surname "Mirza"@en
+http://dbpedia.org/resource/Abbas_Mirza @http://xmlns.com/foaf/0.1/givenName "Abbas"@en
+http://dbpedia.org/resource/Abbas_Mirza @dc:description "Qajar crown prince"@en
+http://dbpedia.org/resource/Abbas_Mirza @http://dbpedia.org/ontology/birthDate "1789-08-26"^^http://www.w3.org/2001/XMLSchema#date
+http://dbpedia.org/resource/Abbas_Mirza @http://dbpedia.org/ontology/deathDate "1833-10-25"^^http://www.w3.org/2001/XMLSchema#date
+http://dbpedia.org/resource/Antoine_Thomson_d'Abbadie @http://xmlns.com/foaf/0.1/name "Antoine Thomson D' Abbadie"@en
+http://dbpedia.org/resource/Antoine_Thomson_d'Abbadie @http://xmlns.com/foaf/0.1/surname "Abbadie"@en
+http://dbpedia.org/resource/Antoine_Thomson_d'Abbadie @http://xmlns.com/foaf/0.1/givenName "Antoine Thomson D'"@en
+http://dbpedia.org/resource/Antoine_Thomson_d'Abbadie @dc:description "Explorer, geographer, ethnologist, linguist and astronomer"@en
+http://dbpedia.org/resource/Antoine_Thomson_d'Abbadie @http://dbpedia.org/ontology/birthDate "1810-01-03"^^http://www.w3.org/2001/XMLSchema#date
+http://dbpedia.org/resource/Antoine_Thomson_d'Abbadie @http://dbpedia.org/ontology/deathDate "1897-03-19"^^http://www.w3.org/2001/XMLSchema#date
+http://dbpedia.org/resource/George_Abbot_(bishop) @http://xmlns.com/foaf/0.1/name "George Abbot"@en
+http://dbpedia.org/resource/George_Abbot_(bishop) @http://xmlns.com/foaf/0.1/surname "Abbot"@en
+http://dbpedia.org/resource/George_Abbot_(bishop) @http://xmlns.com/foaf/0.1/givenName "George"@en
+http://dbpedia.org/resource/George_Abbot_(bishop) @dc:description "Bishop"@en
+http://dbpedia.org/resource/George_Abbot_(bishop) @http://dbpedia.org/ontology/birthDate "1562-10-19"^^http://www.w3.org/2001/XMLSchema#date
+http://dbpedia.org/resource/George_Abbot_(bishop) @http://dbpedia.org/ontology/deathDate "1633-08-05"^^http://www.w3.org/2001/XMLSchema#date
+http://dbpedia.org/resource/Abdur_Rahman_Khan @http://xmlns.com/foaf/0.1/name "Abdur Rahman Khan"@en
+http://dbpedia.org/resource/Abdur_Rahman_Khan @dc:description "Emir of Afghanistan"@en
+http://dbpedia.org/resource/Abdur_Rahman_Khan @http://dbpedia.org/ontology/birthDate "1844"^^http://www.w3.org/2001/XMLSchema#gYear
+http://dbpedia.org/resource/Abdur_Rahman_Khan @http://dbpedia.org/ontology/deathDate "1901-10-01"^^http://www.w3.org/2001/XMLSchema#date
+http://dbpedia.org/resource/Arthur_J._Stone @http://xmlns.com/foaf/0.1/name "Arthur J. Stone"@en
+http://dbpedia.org/resource/Arthur_J._Stone @http://xmlns.com/foaf/0.1/surname "Stone"@en
+http://dbpedia.org/resource/Arthur_J._Stone @http://xmlns.com/foaf/0.1/givenName "Arthur J."@en
+http://dbpedia.org/resource/Arthur_J._Stone @dc:description "American silversmith"@en
+http://dbpedia.org/resource/Arthur_J._Stone @http://dbpedia.org/ontology/birthDate "1847"^^http://www.w3.org/2001/XMLSchema#gYear
+http://dbpedia.org/resource/Arthur_J._Stone @http://dbpedia.org/ontology/deathDate "1938"^^http://www.w3.org/2001/XMLSchema#gYear
+http://dbpedia.org/resource/Arthur_William_à_Beckett @http://xmlns.com/foaf/0.1/name "Arthur William à Beckett"@en
+http://dbpedia.org/resource/Arthur_William_à_Beckett @http://xmlns.com/foaf/0.1/surname "à Beckett"@en
+http://dbpedia.org/resource/Arthur_William_à_Beckett @http://xmlns.com/foaf/0.1/givenName "Arthur William"@en
+http://dbpedia.org/resource/Arthur_William_à_Beckett @dc:description "Journalist"@en
+http://dbpedia.org/resource/Arthur_William_à_Beckett @http://dbpedia.org/ontology/birthDate "1844-10-25"^^http://www.w3.org/2001/XMLSchema#date
+http://dbpedia.org/resource/Arthur_William_à_Beckett @http://dbpedia.org/ontology/deathDate "1909-01-14"^^http://www.w3.org/2001/XMLSchema#date
+http://dbpedia.org/resource/Áed_mac_Cináeda @http://xmlns.com/foaf/0.1/name "Aed Of Scotland"@en
+http://dbpedia.org/resource/Áed_mac_Cináeda @dc:description "King of the Picts"@en
+http://dbpedia.org/resource/Áed_mac_Cináeda @http://dbpedia.org/ontology/deathDate "0878"^^http://www.w3.org/2001/XMLSchema#gYear
+http://dbpedia.org/resource/Abdülaziz_of_the_Ottoman_Empire @http://xmlns.com/foaf/0.1/name "Abdulaziz"@en
+http://dbpedia.org/resource/Abdülaziz_of_the_Ottoman_Empire @dc:description "Sultan of the Ottoman Empire"@en
+http://dbpedia.org/resource/Abdülaziz_of_the_Ottoman_Empire @http://dbpedia.org/ontology/birthDate "1830-02-18"^^http://www.w3.org/2001/XMLSchema#date
+http://dbpedia.org/resource/Abdülaziz_of_the_Ottoman_Empire @http://dbpedia.org/ontology/deathDate "1876-06-04"^^http://www.w3.org/2001/XMLSchema#date
+http://dbpedia.org/resource/'Abd_al-Rahman_I @http://xmlns.com/foaf/0.1/name "Abd Al-Rahman I"@en
+http://dbpedia.org/resource/'Abd_al-Rahman_I @http://xmlns.com/foaf/0.1/surname "Al-Rahman I"@en
+http://dbpedia.org/resource/'Abd_al-Rahman_I @http://xmlns.com/foaf/0.1/givenName "Abd"@en
+http://dbpedia.org/resource/'Abd_al-Rahman_I @dc:description "Royalty"@en
+http://dbpedia.org/resource/'Abd_al-Rahman_I @http://dbpedia.org/ontology/birthDate "0731"^^http://www.w3.org/2001/XMLSchema#gYear
+http://dbpedia.org/resource/'Abd_al-Rahman_I @http://dbpedia.org/ontology/deathDate "0788"^^http://www.w3.org/2001/XMLSchema#gYear
+http://dbpedia.org/resource/Abdul_Hamid_I @http://xmlns.com/foaf/0.1/name "Abdulhamid"@en
+http://dbpedia.org/resource/Abdul_Hamid_I @dc:description "Sultan"@en
+http://dbpedia.org/resource/Abdul_Hamid_I @http://dbpedia.org/ontology/birthDate "1725-03-12"^^http://www.w3.org/2001/XMLSchema#date
+http://dbpedia.org/resource/Abdul_Hamid_I @http://dbpedia.org/ontology/deathDate "1789-04-07"^^http://www.w3.org/2001/XMLSchema#date
+http://dbpedia.org/resource/Anders_Celsius @http://xmlns.com/foaf/0.1/name "Anders Celsius"@en
+http://dbpedia.org/resource/Anders_Celsius @http://xmlns.com/foaf/0.1/surname "Celsius"@en
+http://dbpedia.org/resource/Anders_Celsius @http://xmlns.com/foaf/0.1/givenName "Anders"@en
+http://dbpedia.org/resource/Anders_Celsius @dc:description "Swedish astronomer"@en
+http://dbpedia.org/resource/Anders_Celsius @http://dbpedia.org/ontology/birthDate "1701-11-27"^^http://www.w3.org/2001/XMLSchema#date
+http://dbpedia.org/resource/Anders_Celsius @http://dbpedia.org/ontology/deathDate "1744-04-25"^^http://www.w3.org/2001/XMLSchema#date
+http://dbpedia.org/resource/Adam_Carolla @http://xmlns.com/foaf/0.1/name "Adam Carolla"@en
+http://dbpedia.org/resource/Adam_Carolla @http://xmlns.com/foaf/0.1/surname "Carolla"@en
+http://dbpedia.org/resource/Adam_Carolla @http://xmlns.com/foaf/0.1/givenName "Adam"@en
+http://dbpedia.org/resource/Adam_Carolla @dc:description "American radio personality and television host"@en
+http://dbpedia.org/resource/Adam_Carolla @http://dbpedia.org/ontology/birthDate "1964-05-27"^^http://www.w3.org/2001/XMLSchema#date
+http://dbpedia.org/resource/Amy_Grant @http://xmlns.com/foaf/0.1/name "Amy Grant"@en
+http://dbpedia.org/resource/Amy_Grant @http://xmlns.com/foaf/0.1/surname "Grant"@en
+http://dbpedia.org/resource/Amy_Grant @http://xmlns.com/foaf/0.1/givenName "Amy"@en
+http://dbpedia.org/resource/Amy_Grant @dc:description "American musician"@en
+http://dbpedia.org/resource/Amy_Grant @http://dbpedia.org/ontology/birthDate "1960-11-25"^^http://www.w3.org/2001/XMLSchema#date
+http://dbpedia.org/resource/Aelbert_Cuyp @http://xmlns.com/foaf/0.1/name "Aelbert Cuyp"@en
+http://dbpedia.org/resource/Aelbert_Cuyp @http://xmlns.com/foaf/0.1/surname "Cuyp"@en
+http://dbpedia.org/resource/Aelbert_Cuyp @http://xmlns.com/foaf/0.1/givenName "Aelbert"@en
+http://dbpedia.org/resource/Aelbert_Cuyp @dc:description "landscape painting"@en
+http://dbpedia.org/resource/Aelbert_Cuyp @http://dbpedia.org/ontology/birthDate "1620-10-20"^^http://www.w3.org/2001/XMLSchema#date
+http://dbpedia.org/resource/Aelbert_Cuyp @http://dbpedia.org/ontology/deathDate "1691-11-15"^^http://www.w3.org/2001/XMLSchema#date
+http://dbpedia.org/resource/Andrei_Sakharov @http://xmlns.com/foaf/0.1/name "Andrei Dmitrievich Sakharov"@en
+http://dbpedia.org/resource/Andrei_Sakharov @http://xmlns.com/foaf/0.1/surname "Sakharov"@en
+http://dbpedia.org/resource/Andrei_Sakharov @http://xmlns.com/foaf/0.1/givenName "Andrei Dmitrievich"@en
+http://dbpedia.org/resource/Andrei_Sakharov @dc:description "Soviet nuclear physicist"@en
+http://dbpedia.org/resource/Andrei_Sakharov @http://dbpedia.org/ontology/birthDate "1921-05-21"^^http://www.w3.org/2001/XMLSchema#date
+http://dbpedia.org/resource/Andrei_Sakharov @http://dbpedia.org/ontology/deathDate "1989-12-14"^^http://www.w3.org/2001/XMLSchema#date
+http://dbpedia.org/resource/Aldona_of_Lithuania @http://xmlns.com/foaf/0.1/name "Aldona Of Lithuania"@en
+http://dbpedia.org/resource/Aldona_of_Lithuania @dc:description "Queen of Poland (1333–1339), and the Princess of the Grand Duchy of Lithuania"@en
+http://dbpedia.org/resource/Aldona_of_Lithuania @http://dbpedia.org/ontology/birthDate "1309"^^http://www.w3.org/2001/XMLSchema#gYear
+http://dbpedia.org/resource/Aldona_of_Lithuania @http://dbpedia.org/ontology/deathDate "1339-05-26"^^http://www.w3.org/2001/XMLSchema#date
+http://dbpedia.org/resource/Aung_San_Suu_Kyi @http://xmlns.com/foaf/0.1/name "Aung San Suu Kyi"@en
+http://dbpedia.org/resource/Aung_San_Suu_Kyi @dc:description "nonviolent pro-democracy activist"@en
+http://dbpedia.org/resource/Aung_San_Suu_Kyi @http://dbpedia.org/ontology/birthDate "1945-06-19"^^http://www.w3.org/2001/XMLSchema#date
+http://dbpedia.org/resource/Andrzej_Sapkowski @http://xmlns.com/foaf/0.1/name "Andrzej Sapkowski"@en
+http://dbpedia.org/resource/Andrzej_Sapkowski @http://xmlns.com/foaf/0.1/surname "Sapkowski"@en
+http://dbpedia.org/resource/Andrzej_Sapkowski @http://xmlns.com/foaf/0.1/givenName "Andrzej"@en
+http://dbpedia.org/resource/Andrzej_Sapkowski @dc:description "Novelist"@en
+http://dbpedia.org/resource/Andrzej_Sapkowski @http://dbpedia.org/ontology/birthDate "1948-06-21"^^http://www.w3.org/2001/XMLSchema#date
+http://dbpedia.org/resource/Abraham_Joshua_Heschel @http://xmlns.com/foaf/0.1/name "Abraham Joshua Heschel"@en
+http://dbpedia.org/resource/Abraham_Joshua_Heschel @http://xmlns.com/foaf/0.1/surname "Heschel"@en
+http://dbpedia.org/resource/Abraham_Joshua_Heschel @http://xmlns.com/foaf/0.1/givenName "Abraham Joshua"@en
+http://dbpedia.org/resource/Abraham_Joshua_Heschel @dc:description "Polish-American Conservative Judaism Rabbi"@en
+http://dbpedia.org/resource/Abraham_Joshua_Heschel @http://dbpedia.org/ontology/birthDate "1907-01-11"^^http://www.w3.org/2001/XMLSchema#date
+http://dbpedia.org/resource/Abraham_Joshua_Heschel @http://dbpedia.org/ontology/deathDate "1972-12-23"^^http://www.w3.org/2001/XMLSchema#date
+http://dbpedia.org/resource/Aron_Nimzowitsch @http://xmlns.com/foaf/0.1/name "Aron Nimzowitsch"@en
+http://dbpedia.org/resource/Aron_Nimzowitsch @http://xmlns.com/foaf/0.1/surname "Nimzowitsch"@en
+http://dbpedia.org/resource/Aron_Nimzowitsch @http://xmlns.com/foaf/0.1/givenName "Aron"@en
+http://dbpedia.org/resource/Aron_Nimzowitsch @dc:description "Danish chess player"@en
+http://dbpedia.org/resource/Aron_Nimzowitsch @http://dbpedia.org/ontology/birthDate "1886-11-07"^^http://www.w3.org/2001/XMLSchema#date
+http://dbpedia.org/resource/Aron_Nimzowitsch @http://dbpedia.org/ontology/deathDate "1935-03-16"^^http://www.w3.org/2001/XMLSchema#date
+http://dbpedia.org/resource/Archduke_Charles,_Duke_of_Teschen @http://xmlns.com/foaf/0.1/name "Archduke Charles Of Austria"@en
+http://dbpedia.org/resource/Archduke_Charles,_Duke_of_Teschen @http://xmlns.com/foaf/0.1/surname "Charles Of Austria"@en
+http://dbpedia.org/resource/Archduke_Charles,_Duke_of_Teschen @http://xmlns.com/foaf/0.1/givenName "Archduke"@en
+http://dbpedia.org/resource/Archduke_Charles,_Duke_of_Teschen @dc:description "Archduke of Austria"@en
+http://dbpedia.org/resource/Archduke_Charles,_Duke_of_Teschen @http://dbpedia.org/ontology/birthDate "1771-09-05"^^http://www.w3.org/2001/XMLSchema#date
+http://dbpedia.org/resource/Archduke_Charles,_Duke_of_Teschen @http://dbpedia.org/ontology/deathDate "1847-04-30"^^http://www.w3.org/2001/XMLSchema#date
+http://dbpedia.org/resource/Alexander_of_Hales @http://xmlns.com/foaf/0.1/name "Alexander Of Hales"@en
+http://dbpedia.org/resource/Alexander_of_Hales @dc:description "English Franciscan theologian and philopher"@en
+http://dbpedia.org/resource/Alexander_of_Hales @http://dbpedia.org/ontology/birthDate "1180"^^http://www.w3.org/2001/XMLSchema#gYear
+http://dbpedia.org/resource/Alexander_of_Hales @http://dbpedia.org/ontology/deathDate "1245"^^http://www.w3.org/2001/XMLSchema#gYear
+http://dbpedia.org/resource/Amanda_Hesser @http://xmlns.com/foaf/0.1/name "Amanda Hesser"@en
+http://dbpedia.org/resource/Amanda_Hesser @http://xmlns.com/foaf/0.1/surname "Hesser"@en
+http://dbpedia.org/resource/Amanda_Hesser @http://xmlns.com/foaf/0.1/givenName "Amanda"@en
+http://dbpedia.org/resource/Amanda_Hesser @dc:description "American writer"@en
+http://dbpedia.org/resource/Amanda_Hesser @http://dbpedia.org/ontology/birthDate "1971"^^http://www.w3.org/2001/XMLSchema#gYear
+http://dbpedia.org/resource/Ahuitzotl @http://xmlns.com/foaf/0.1/name "Ahuizotl"@en
+http://dbpedia.org/resource/Ahuitzotl @dc:description "8th Tlatoani of Tenochtitlan"@en
+http://dbpedia.org/resource/Ahuitzotl @http://dbpedia.org/ontology/deathDate "1502"^^http://www.w3.org/2001/XMLSchema#gYear
+http://dbpedia.org/resource/Alex_Lifeson @http://xmlns.com/foaf/0.1/name "Alex Lifeson"@en
+http://dbpedia.org/resource/Alex_Lifeson @http://xmlns.com/foaf/0.1/surname "Lifeson"@en
+http://dbpedia.org/resource/Alex_Lifeson @http://xmlns.com/foaf/0.1/givenName "Alex"@en
+http://dbpedia.org/resource/Alex_Lifeson @dc:description "Canadian musician"@en
+http://dbpedia.org/resource/Alex_Lifeson @http://dbpedia.org/ontology/birthDate "1952-06-10"^^http://www.w3.org/2001/XMLSchema#date
+http://dbpedia.org/resource/Axayacatl @http://xmlns.com/foaf/0.1/name "Axayacatl"@en
+http://dbpedia.org/resource/Axayacatl @dc:description "Aztec king"@en
+http://dbpedia.org/resource/Axayacatl @http://dbpedia.org/ontology/deathDate "1481"^^http://www.w3.org/2001/XMLSchema#gYear
+http://dbpedia.org/resource/Amr_Diab @http://xmlns.com/foaf/0.1/name "Amr Diab"@en
+http://dbpedia.org/resource/Amr_Diab @http://xmlns.com/foaf/0.1/surname "Diab"@en
+http://dbpedia.org/resource/Amr_Diab @http://xmlns.com/foaf/0.1/givenName "Amr"@en
+http://dbpedia.org/resource/Amr_Diab @dc:description "Egyptian popular singer"@en
+http://dbpedia.org/resource/Amr_Diab @http://dbpedia.org/ontology/birthDate "1961-10-11"^^http://www.w3.org/2001/XMLSchema#date
+http://dbpedia.org/resource/Anaïs_Nin @http://xmlns.com/foaf/0.1/name "Anaïs Nin"@en
+http://dbpedia.org/resource/Anaïs_Nin @http://xmlns.com/foaf/0.1/surname "Nin"@en
+http://dbpedia.org/resource/Anaïs_Nin @http://xmlns.com/foaf/0.1/givenName "Anaïs"@en
+http://dbpedia.org/resource/Anaïs_Nin @dc:description "American writer"@en
+http://dbpedia.org/resource/Anaïs_Nin @http://dbpedia.org/ontology/birthDate "1903-02-21"^^http://www.w3.org/2001/XMLSchema#date
+http://dbpedia.org/resource/Anaïs_Nin @http://dbpedia.org/ontology/deathDate "1977-01-14"^^http://www.w3.org/2001/XMLSchema#date
+http://dbpedia.org/resource/Adrian_Lamo @http://xmlns.com/foaf/0.1/name "Adrian Lamo"@en
+http://dbpedia.org/resource/Adrian_Lamo @http://xmlns.com/foaf/0.1/surname "Lamo"@en
+http://dbpedia.org/resource/Adrian_Lamo @http://xmlns.com/foaf/0.1/givenName "Adrian"@en
+http://dbpedia.org/resource/Adrian_Lamo @dc:description "American journalist, hacker, and orator"@en
+http://dbpedia.org/resource/Adrian_Lamo @http://dbpedia.org/ontology/birthDate "1981-02-20"^^http://www.w3.org/2001/XMLSchema#date
+http://dbpedia.org/resource/Agner_Krarup_Erlang @http://xmlns.com/foaf/0.1/name "Agner Krarup Erlang"@en
+http://dbpedia.org/resource/Agner_Krarup_Erlang @http://xmlns.com/foaf/0.1/surname "Erlang"@en
+http://dbpedia.org/resource/Agner_Krarup_Erlang @http://xmlns.com/foaf/0.1/givenName "Agner Krarup"@en
+http://dbpedia.org/resource/Agner_Krarup_Erlang @dc:description "Danish mathematician"@en
+http://dbpedia.org/resource/Agner_Krarup_Erlang @http://dbpedia.org/ontology/birthDate "1878-01-01"^^http://www.w3.org/2001/XMLSchema#date
+http://dbpedia.org/resource/Agner_Krarup_Erlang @http://dbpedia.org/ontology/deathDate "1929-02-03"^^http://www.w3.org/2001/XMLSchema#date
+http://dbpedia.org/resource/Ariel_Sharon @http://xmlns.com/foaf/0.1/name "Ariel Sharon"@en
+http://dbpedia.org/resource/Ariel_Sharon @http://xmlns.com/foaf/0.1/surname "Sharon"@en
+http://dbpedia.org/resource/Ariel_Sharon @http://xmlns.com/foaf/0.1/givenName "Ariel"@en
+http://dbpedia.org/resource/Ariel_Sharon @dc:description "Israeli politician"@en
+http://dbpedia.org/resource/Ariel_Sharon @http://dbpedia.org/ontology/birthDate "1928-02-26"^^http://www.w3.org/2001/XMLSchema#date
+http://dbpedia.org/resource/Ariel_Sharon @http://dbpedia.org/ontology/deathDate "2014-01-11"^^http://www.w3.org/2001/XMLSchema#date
+http://dbpedia.org/resource/Arthur_Laurents @http://xmlns.com/foaf/0.1/name "Arthur Laurents"@en
+http://dbpedia.org/resource/Arthur_Laurents @http://xmlns.com/foaf/0.1/surname "Laurents"@en
+http://dbpedia.org/resource/Arthur_Laurents @http://xmlns.com/foaf/0.1/givenName "Arthur"@en
+http://dbpedia.org/resource/Arthur_Laurents @dc:description "Playwright, theatre director, screenwriter"@en
+http://dbpedia.org/resource/Arthur_Laurents @http://dbpedia.org/ontology/birthDate "1918-07-14"^^http://www.w3.org/2001/XMLSchema#date
+http://dbpedia.org/resource/Arthur_Laurents @http://dbpedia.org/ontology/deathDate "2011-05-05"^^http://www.w3.org/2001/XMLSchema#date
+http://dbpedia.org/resource/Alan_Jay_Lerner @http://xmlns.com/foaf/0.1/name "Alan Jay Lerner"@en
+http://dbpedia.org/resource/Alan_Jay_Lerner @http://xmlns.com/foaf/0.1/surname "Lerner"@en
+http://dbpedia.org/resource/Alan_Jay_Lerner @http://xmlns.com/foaf/0.1/givenName "Alan Jay"@en
+http://dbpedia.org/resource/Alan_Jay_Lerner @dc:description "American lyrcist and librettist"@en
+http://dbpedia.org/resource/Alan_Jay_Lerner @http://dbpedia.org/ontology/birthDate "1918-08-31"^^http://www.w3.org/2001/XMLSchema#date
+http://dbpedia.org/resource/Alan_Jay_Lerner @http://dbpedia.org/ontology/deathDate "1986-06-14"^^http://www.w3.org/2001/XMLSchema#date
+http://dbpedia.org/resource/Ann_Druyan @http://xmlns.com/foaf/0.1/name "Ann Druyan"@en
+http://dbpedia.org/resource/Ann_Druyan @http://xmlns.com/foaf/0.1/surname "Druyan"@en
+http://dbpedia.org/resource/Ann_Druyan @http://xmlns.com/foaf/0.1/givenName "Ann"@en
+http://dbpedia.org/resource/Ann_Druyan @dc:description "American science writer"@en
+http://dbpedia.org/resource/Ann_Druyan @http://dbpedia.org/ontology/birthDate "1949-06-13"^^http://www.w3.org/2001/XMLSchema#date
+http://dbpedia.org/resource/Alexey_Pajitnov @http://xmlns.com/foaf/0.1/name "Alexey Pajitnov"@en
+http://dbpedia.org/resource/Alexey_Pajitnov @http://xmlns.com/foaf/0.1/surname "Pajitnov"@en
+http://dbpedia.org/resource/Alexey_Pajitnov @http://xmlns.com/foaf/0.1/givenName "Alexey"@en
+http://dbpedia.org/resource/Alexey_Pajitnov @dc:description "Computer engineer, developer of Tetris"@en
+http://dbpedia.org/resource/Alexey_Pajitnov @http://dbpedia.org/ontology/birthDate "1956-03-14"^^http://www.w3.org/2001/XMLSchema#date
+http://dbpedia.org/resource/Al_Capp @http://xmlns.com/foaf/0.1/name "Al Capp"@en
+http://dbpedia.org/resource/Al_Capp @http://xmlns.com/foaf/0.1/surname "Capp"@en
+http://dbpedia.org/resource/Al_Capp @http://xmlns.com/foaf/0.1/givenName "Al"@en
+http://dbpedia.org/resource/Al_Capp @dc:description "Cartoonist"@en
+http://dbpedia.org/resource/Al_Capp @http://dbpedia.org/ontology/birthDate "1909-09-28"^^http://www.w3.org/2001/XMLSchema#date
+http://dbpedia.org/resource/Al_Capp @http://dbpedia.org/ontology/deathDate "1979-11-05"^^http://www.w3.org/2001/XMLSchema#date
+http://dbpedia.org/resource/Ambrose_of_Alexandria @http://xmlns.com/foaf/0.1/name "Ambrose of Alexandria"@en
+http://dbpedia.org/resource/Ambrose_of_Alexandria @dc:description "Christian saint and theologian"@en
+http://dbpedia.org/resource/Ambrose_of_Alexandria @http://dbpedia.org/ontology/deathDate "0250"^^http://www.w3.org/2001/XMLSchema#gYear
+http://dbpedia.org/resource/Abu_al-Faraj_al-Isfahani @http://xmlns.com/foaf/0.1/name "Abu Al- Faraj Al-Isfahani"@en
+http://dbpedia.org/resource/Abu_al-Faraj_al-Isfahani @http://xmlns.com/foaf/0.1/surname "Faraj Al-Isfahani"@en
+http://dbpedia.org/resource/Abu_al-Faraj_al-Isfahani @http://xmlns.com/foaf/0.1/givenName "Abu Al-"@en
+http://dbpedia.org/resource/Abu_al-Faraj_al-Isfahani @dc:description "Arabic historian"@en
+http://dbpedia.org/resource/Abu_al-Faraj_al-Isfahani @http://dbpedia.org/ontology/birthDate "0897"^^http://www.w3.org/2001/XMLSchema#gYear
+http://dbpedia.org/resource/Abu_al-Faraj_al-Isfahani @http://dbpedia.org/ontology/deathDate "0967"^^http://www.w3.org/2001/XMLSchema#gYear
+http://dbpedia.org/resource/Arthur_Jensen @http://xmlns.com/foaf/0.1/name "Arthur Jensen"@en
+http://dbpedia.org/resource/Arthur_Jensen @http://xmlns.com/foaf/0.1/surname "Jensen"@en
+http://dbpedia.org/resource/Arthur_Jensen @http://xmlns.com/foaf/0.1/givenName "Arthur"@en
+http://dbpedia.org/resource/Arthur_Jensen @dc:description "American psychologist"@en
+http://dbpedia.org/resource/Arthur_Jensen @http://dbpedia.org/ontology/birthDate "1923-08-24"^^http://www.w3.org/2001/XMLSchema#date
+http://dbpedia.org/resource/Arthur_Jensen @http://dbpedia.org/ontology/deathDate "2012-10-22"^^http://www.w3.org/2001/XMLSchema#date
+http://dbpedia.org/resource/Akira_Toriyama @http://xmlns.com/foaf/0.1/name "Akira Toriyama"@en
+http://dbpedia.org/resource/Akira_Toriyama @http://xmlns.com/foaf/0.1/surname "Toriyama"@en
+http://dbpedia.org/resource/Akira_Toriyama @http://xmlns.com/foaf/0.1/givenName "Akira"@en
+http://dbpedia.org/resource/Akira_Toriyama @dc:description "Manga artist and video game character designer"@en
+http://dbpedia.org/resource/Akira_Toriyama @http://dbpedia.org/ontology/birthDate "1955-04-05"^^http://www.w3.org/2001/XMLSchema#date
+http://dbpedia.org/resource/Albert_Brooks @http://xmlns.com/foaf/0.1/name "Albert Brooks"@en
+http://dbpedia.org/resource/Albert_Brooks @http://xmlns.com/foaf/0.1/surname "Brooks"@en
+http://dbpedia.org/resource/Albert_Brooks @http://xmlns.com/foaf/0.1/givenName "Albert"@en
+http://dbpedia.org/resource/Albert_Brooks @dc:description "Actor, voice actor, writer, comedian and director"@en
+http://dbpedia.org/resource/Albert_Brooks @http://dbpedia.org/ontology/birthDate "1947-07-22"^^http://www.w3.org/2001/XMLSchema#date
+http://dbpedia.org/resource/Angela_Vincent @http://xmlns.com/foaf/0.1/name "Angela Vincent"@en
+http://dbpedia.org/resource/Angela_Vincent @http://xmlns.com/foaf/0.1/surname "Vincent"@en
+http://dbpedia.org/resource/Angela_Vincent @http://xmlns.com/foaf/0.1/givenName "Angela"@en
+http://dbpedia.org/resource/Angela_Vincent @dc:description "British neurosurgeon"@en
+http://dbpedia.org/resource/Angela_Vincent @http://dbpedia.org/ontology/birthDate "1942"^^http://www.w3.org/2001/XMLSchema#gYear
+http://dbpedia.org/resource/%60Abdu'l-Bahá @http://xmlns.com/foaf/0.1/name "Abdul-Baha"@en
+http://dbpedia.org/resource/%60Abdu'l-Bahá @dc:description "Son of Bahá'u'lláh and leader of the Bahá'í Faith"@en
+http://dbpedia.org/resource/%60Abdu'l-Bahá @http://dbpedia.org/ontology/birthDate "1844-05-23"^^http://www.w3.org/2001/XMLSchema#date
+http://dbpedia.org/resource/%60Abdu'l-Bahá @http://dbpedia.org/ontology/deathDate "1921-11-28"^^http://www.w3.org/2001/XMLSchema#date
+http://dbpedia.org/resource/Adolphe_Sax @http://xmlns.com/foaf/0.1/name "Adolphe Sax"@en
+http://dbpedia.org/resource/Adolphe_Sax @http://xmlns.com/foaf/0.1/surname "Sax"@en
+http://dbpedia.org/resource/Adolphe_Sax @http://xmlns.com/foaf/0.1/givenName "Adolphe"@en
+http://dbpedia.org/resource/Adolphe_Sax @dc:description "musical instrument designer, musician"@en
+http://dbpedia.org/resource/Adolphe_Sax @http://dbpedia.org/ontology/birthDate "1814-11-06"^^http://www.w3.org/2001/XMLSchema#date
+http://dbpedia.org/resource/Adolphe_Sax @http://dbpedia.org/ontology/deathDate "1894-02-04"^^http://www.w3.org/2001/XMLSchema#date
+http://dbpedia.org/resource/Abu_Zubaydah @http://xmlns.com/foaf/0.1/name "Abu Zubaydah"@en
+http://dbpedia.org/resource/Abu_Zubaydah @dc:description "Guananamo detainee"@en
+http://dbpedia.org/resource/Abu_Zubaydah @http://dbpedia.org/ontology/birthDate "1971-03-12"^^http://www.w3.org/2001/XMLSchema#date
+http://dbpedia.org/resource/Adin_Steinsaltz @http://xmlns.com/foaf/0.1/name "Adin Steinsaltz"@en
+http://dbpedia.org/resource/Adin_Steinsaltz @http://xmlns.com/foaf/0.1/surname "Steinsaltz"@en
+http://dbpedia.org/resource/Adin_Steinsaltz @http://xmlns.com/foaf/0.1/givenName "Adin"@en
+http://dbpedia.org/resource/Adin_Steinsaltz @dc:description "Israeli rabbi"@en
+http://dbpedia.org/resource/Adin_Steinsaltz @http://dbpedia.org/ontology/birthDate "1937"^^http://www.w3.org/2001/XMLSchema#gYear
+http://dbpedia.org/resource/A._E._Housman @http://xmlns.com/foaf/0.1/name "A. E. Housman"@en
+http://dbpedia.org/resource/A._E._Housman @http://xmlns.com/foaf/0.1/surname "Housman"@en
+http://dbpedia.org/resource/A._E._Housman @http://xmlns.com/foaf/0.1/givenName "A. E."@en
+http://dbpedia.org/resource/A._E._Housman @dc:description "British poet and scholar"@en
+http://dbpedia.org/resource/A._E._Housman @http://dbpedia.org/ontology/birthDate "1859-03-26"^^http://www.w3.org/2001/XMLSchema#date
+http://dbpedia.org/resource/A._E._Housman @http://dbpedia.org/ontology/deathDate "1936-04-30"^^http://www.w3.org/2001/XMLSchema#date
+http://dbpedia.org/resource/Ahmed_al-Nami @http://xmlns.com/foaf/0.1/name "Ahmed Abdullah al- Nami"@en
+http://dbpedia.org/resource/Ahmed_al-Nami @http://xmlns.com/foaf/0.1/surname "Nami"@en
+http://dbpedia.org/resource/Ahmed_al-Nami @http://xmlns.com/foaf/0.1/givenName "Ahmed Abdullah al-"@en
+http://dbpedia.org/resource/Ahmed_al-Nami @dc:description "9/11 hijacker"@en
+http://dbpedia.org/resource/Ahmed_al-Nami @http://dbpedia.org/ontology/birthDate "1977-08-17"^^http://www.w3.org/2001/XMLSchema#date
+http://dbpedia.org/resource/Ahmed_al-Nami @http://dbpedia.org/ontology/deathDate "2001-09-11"^^http://www.w3.org/2001/XMLSchema#date
+http://dbpedia.org/resource/Ahmed_al-Haznawi @http://xmlns.com/foaf/0.1/name "Ahmed Ibrahim al- Haznawi"@en
+http://dbpedia.org/resource/Ahmed_al-Haznawi @http://xmlns.com/foaf/0.1/surname "Haznawi"@en
+http://dbpedia.org/resource/Ahmed_al-Haznawi @http://xmlns.com/foaf/0.1/givenName "Ahmed Ibrahim al-"@en
+http://dbpedia.org/resource/Ahmed_al-Haznawi @dc:description "9/11 hijacker"@en
+http://dbpedia.org/resource/Ahmed_al-Haznawi @http://dbpedia.org/ontology/birthDate "1980-10-11"^^http://www.w3.org/2001/XMLSchema#date
+http://dbpedia.org/resource/Ahmed_al-Haznawi @http://dbpedia.org/ontology/deathDate "2001-09-11"^^http://www.w3.org/2001/XMLSchema#date
+http://dbpedia.org/resource/Athanasius_of_Alexandria @http://xmlns.com/foaf/0.1/name "Athanasius 01"@en
+http://dbpedia.org/resource/Athanasius_of_Alexandria @dc:description "Patriarch of Alexandria"@en
+http://dbpedia.org/resource/Athanasius_of_Alexandria @http://dbpedia.org/ontology/birthDate "0295"^^http://www.w3.org/2001/XMLSchema#gYear
+http://dbpedia.org/resource/Athanasius_of_Alexandria @http://dbpedia.org/ontology/deathDate "0373-05-02"^^http://www.w3.org/2001/XMLSchema#date
+http://dbpedia.org/resource/Albert_Frederick,_Duke_of_Prussia @http://xmlns.com/foaf/0.1/name "Duke of Prussia Albert Frederick"@en
+http://dbpedia.org/resource/Albert_Frederick,_Duke_of_Prussia @http://xmlns.com/foaf/0.1/surname "Albert Frederick"@en
+http://dbpedia.org/resource/Albert_Frederick,_Duke_of_Prussia @http://xmlns.com/foaf/0.1/givenName "Duke of Prussia"@en
