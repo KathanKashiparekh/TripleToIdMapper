@@ -58,145 +58,10 @@ class RichReader(reader: BufferedReader) {
   }
 }
 
-/**
-  * Allows common handling of java.io.File and java.nio.file.Path
-  */
-abstract class FileLike[T] {
-
-  /**
-    * @return full path
-    */
-  def toString: String
-
-  /**
-    * @return file name, or null if file path has no parts
-    */
-  def name: String
-
-  def resolve(name: String): Try[T]
-
-  def names: List[String]
-
-  def list: List[T]
-
-  def exists: Boolean
-
-  @throws[java.io.IOException]("if file does not exist or cannot be deleted")
-  def delete(recursive: Boolean = false): Unit
-
-  def size(): Long
-
-  def isFile: Boolean
-
-  def isDirectory: Boolean
-
-  def hasFiles: Boolean
-
-  def inputStream(): InputStream
-
-  def outputStream(append: Boolean = false): OutputStream
-
-  def getFile: File
-}
-
-/**
-  * TODO: modify the bzip code such that there are no run-time dependencies on commons-compress.
-  * Users should be able to use .gz files without having commons-compress on the classpath.
-  * Even better, look for several different bzip2 implementations on the classpath...
-  */
-object IOUtils {
-
-  /**
-    * Map from file suffix (without "." dot) to output stream wrapper
-    */
-  val zippers = Map[String, OutputStream => OutputStream] (
-    "gz" -> { new GZIPOutputStream(_) },
-    "bz2" -> { new BZip2CompressorOutputStream(_) }
-  )
-
-  /**
-    * Map from file suffix (without "." dot) to input stream wrapper
-    */
-  val unzippers = Map[String, InputStream => InputStream] (
-    "gz" -> { new GZIPInputStream(_) },
-    "bz2" -> { new BZip2CompressorInputStream(_,true) }
-  )
-
-  /**
-    * use opener on file, wrap in un/zipper stream if necessary
-    */
-  private def open[T](file: FileLike[_], opener: FileLike[_] => T, wrappers: Map[String, T => T]): T = {
-    val name = file.name
-    val suffix = name.substring(name.lastIndexOf('.') + 1)
-    wrappers.getOrElse(suffix, identity[T] _)(opener(file))
-  }
-
-  /**
-    * open output stream, wrap in zipper stream if file suffix indicates compressed file.
-    */
-  def outputStream(file: FileLike[_], append: Boolean = false): OutputStream =
-    open(file, _.outputStream(append), zippers)
-
-  /**
-    * open input stream, wrap in unzipper stream if file suffix indicates compressed file.
-    */
-  def inputStream(file: FileLike[_]): InputStream =
-    open(file, _.inputStream(), unzippers)
-
-  /**
-    * open output stream, wrap in zipper stream if file suffix indicates compressed file,
-    * wrap in writer.
-    */
-  def writer(file: FileLike[_], append: Boolean = false, charset: Charset = Codec.UTF8.charSet): Writer =
-    new OutputStreamWriter(outputStream(file, append), charset)
-
-  /**
-    * open input stream, wrap in unzipper stream if file suffix indicates compressed file,
-    * wrap in reader.
-    */
-  def reader(file: FileLike[_], charset: Charset = Codec.UTF8.charSet): Reader =
-    new InputStreamReader(inputStream(file), charset)
-
-  /**
-    * open input stream, wrap in unzipper stream if file suffix indicates compressed file,
-    * wrap in reader, wrap in buffered reader, process all lines. The last value passed to
-    * proc will be null.
-    */
-  def readLines(file: FileLike[_], charset: Charset = Codec.UTF8.charSet)(proc: String => Unit): Unit = {
-    val reader: Reader = this.reader(file)
-
-    import  RichReader._
-    try {
-      for (line<- reader) {
-        proc(line)
-      }
-    }
-    finally reader.close()
-  }
-
-  /**
-    * Copy all bytes from input to output. Don't close any stream.
-    */
-  def copy(in: InputStream, out: OutputStream) : Unit = {
-    val buf = new Array[Byte](1 << 20) // 1 MB
-    while (true)
-    {
-      val read = in.read(buf)
-      if (read == -1)
-      {
-        out.flush
-        return
-      }
-      out.write(buf, 0, read)
-    }
-  }
-
-}
-
 object AllLanguageMapper{
 
   def main(args: Array[String]) {
-    val langID=List("en","de","es","fr","ja","nl")
+    val langID=List("en")//List("en","de","es","fr","ja","nl")
     val whiteList=List("infobox_properties")
 
     val sparkSession=SparkSession.builder
@@ -208,7 +73,7 @@ object AllLanguageMapper{
     //Can now use the previous code from Triple2IdMapper.scala
     for(lang<-langID){
       val dataset:RDD[graph.Triple]=sparkSession.sparkContext.emptyRDD[graph.Triple]
-      val savePath="/home/kathan/Downloads/".concat(lang).concat("/")
+      val savePath="/home/kathan/Downloads/datasets/".concat(lang).concat("/")
       for(filename<-whiteList){
         val link="http://downloads.dbpedia.org/2016-04/core-i18n/"
         val link1=link.concat(lang).concat("/").concat(filename).concat("_").concat(lang).concat(".ttl.bz2")
@@ -221,8 +86,8 @@ object AllLanguageMapper{
         if(connection.getResponseCode()!=404){ //Can also have !=404
 //          println("URL Exists")
           //Insert code here to download the file.
-          new URL(link1) #> new File(savePath.concat(filename).concat(".ttl.bz2"))
-          val path="/home/kathan/Downloads/".concat(filename).concat("_").concat(lang).concat(".ttl.bz2")
+          new URL(link1) #> new File(savePath.concat(filename).concat(".ttl.bz2")) !!
+          val path="/home/kathan/Downloads/datasets/".concat(lang).concat("/").concat(filename).concat("_").concat(lang).concat(".ttl.bz2")
           val fin = Files.newInputStream(Paths.get(path))
           val in = new BufferedInputStream(fin)
           val bzIn = new BZip2CompressorInputStream(in)
@@ -232,7 +97,8 @@ object AllLanguageMapper{
             r!=null
           }.toSeq
           a.init.filterNot(_ == null) -> (a.last != null)
-          val rdd=sparkSession.sparkContext.parallelize(a)
+          var rdd=sparkSession.sparkContext.parallelize(a)
+          rdd=rdd.filter(x=>x.charAt(0)=='<')
           val triplesRDD: RDD[graph.Triple] = rdd.map(line =>
             RDFDataMgr.createIteratorTriples(new ByteArrayInputStream(line.getBytes), Lang.NTRIPLES, null).next())
 
@@ -241,17 +107,6 @@ object AllLanguageMapper{
       }
       val dataset_for_one_language:TripleRDD=dataset
       //After this,we have a complete RDD(dataset) and can be used to generate EntityId and RelationId files using previous code.
-
-      //Gets all triples with literals as objects.
-      val triples_with_literals:TripleRDD=dataset_for_one_language.filterObjects(_.isLiteral())
-      //Remove those triples that have subject as blank nodes and object as literals.
-      val triples_with_literals_modified=triples_with_literals.filterSubjects(_.isURI)
-
-      //Gets all triples with subject as a URI.
-      val subject_as_URI:TripleRDD=dataset_for_one_language.filterSubjects(_.isURI())
-      //From above, take onl those triples that have object as URI too!
-      val s_o_URI=subject_as_URI.filterObjects(_.isURI())
-
 
       //Generating ID's.
       //For subjects and objects
@@ -265,6 +120,85 @@ object AllLanguageMapper{
       val predicateURI=dataset_for_one_language.getPredicates.filter(_.isURI).distinct()
       val distinct_predicate_URI=predicateURI.coalesce(1,true).zipWithUniqueId()
       distinct_predicate_URI.coalesce(1,true).saveAsTextFile(savePath.concat("RelationId"))
+
+
+      //Now to create the triple2id files for each dataset
+      for(filename<-whiteList){
+        val path="/home/kathan/Downloads/datasets/".concat(lang).concat("/").concat(filename).concat("_").concat(lang).concat(".ttl.bz2")
+        val fin = Files.newInputStream(Paths.get(path))
+        val in = new BufferedInputStream(fin)
+        val bzIn = new BZip2CompressorInputStream(in)
+        val reader=new BufferedReader(new InputStreamReader(bzIn,Codec.UTF8.charSet))
+        val a = Iterator.continually(reader.readLine()).takeWhile { r =>
+          println(r)
+          r!=null
+        }.toSeq
+        a.init.filterNot(_ == null) -> (a.last != null)
+        var rdd=sparkSession.sparkContext.parallelize(a)
+        rdd=rdd.filter(x=>x.charAt(0)=='<')
+        val triplesRDD = rdd.map(line =>
+          RDFDataMgr.createIteratorTriples(new ByteArrayInputStream(line.getBytes), Lang.NTRIPLES, null).next())
+        val graph:TripleRDD=triplesRDD
+
+        //Gets all triples with literals as objects and save as one text file.
+        val triples_with_literals:TripleRDD=graph.filterObjects(_.isLiteral())
+        //Remove those triples that have subject as blank nodes and object as literals.
+        val triples_with_literals_modified=triples_with_literals.filterSubjects(_.isURI)
+
+        //Gets all triples with subject as a URI.
+        val subject_as_URI:TripleRDD=graph.filterSubjects(_.isURI())
+        //From above, take onl those triples that have object as URI too!
+        val s_o_URI=subject_as_URI.filterObjects(_.isURI())
+
+        //Mappin <URI,URI,URI> files to ID's
+        //First mapping the subject to ID's
+        val s_o_URI_mapped=s_o_URI.map(x=>(x.getSubject,x.getPredicate,x.getObject))
+        val subjectKeyTriples =s_o_URI_mapped.map(x =>(x._1,(x._2,x._3)))
+
+        val subjectJoinedWithId: RDD[(Node, (Long, (Node, Node)))] =distinct_entities_withID.join(subjectKeyTriples)
+        val subjectMapped=subjectJoinedWithId.map{
+          case (oldSubject: Node, newTriple: (Long, (Node, Node))) =>
+            (newTriple._1,newTriple._2._1,newTriple._2._2)
+        }
+        //Now mapping the objects to ID's
+        val objectKeyTriples=subjectMapped.map(x=>(x._3,(x._1,x._2)))
+        val objectJoinedWithId: RDD[(Node, (Long, (Long, Node)))] =distinct_entities_withID.join(objectKeyTriples)
+
+        val objectMapped=objectJoinedWithId.map{
+          case (oldObject: Node, newTriple: (Long, (Long, Node))) =>
+            (newTriple._2._1,newTriple._2._2,newTriple._1)
+        }
+        //Now mapping the predicates to ID's
+        val predicateKeyTriples=objectMapped.map(x=>(x._2,(x._1,x._3)))
+        val predicateJoinedWithId: RDD[(Node, (Long, (Long, Long)))] =distinct_predicate_URI.join(predicateKeyTriples)
+
+        val predicateMapped=predicateJoinedWithId.map{
+          case (oldPredicate: Node, newTriple: (Long, (Long, Long))) =>
+            (newTriple._2._1,newTriple._1,newTriple._2._2)
+        }
+
+        predicateMapped.coalesce(1,true).saveAsTextFile("/home/kathan/Downloads/datasets/".concat(lang).concat("/").concat(filename).concat("_Uri2Id"))
+
+        //    Now lets do it for triples with literals.
+        val literals_mapped=triples_with_literals_modified.map(x=>(x.getSubject,x.getPredicate,x.getObject))
+        val subjectAsKey=literals_mapped.map(x=>(x._1,(x._2,x._3)))
+        val subjectID: RDD[(Node, (Long, (Node, Node)))] =distinct_entities_withID.join(subjectAsKey)
+
+        val subjMap=subjectID.map{
+          case (oldSubject: Node, newTriple: (Long, (Node, Node))) =>
+            (newTriple._1,newTriple._2._1,newTriple._2._2)
+        }
+
+        val predicateAsKey=subjMap.map(x=>(x._2,(x._1,x._3)))
+        val predicateID=distinct_predicate_URI.join(predicateAsKey)
+
+        val predMap=predicateID.map{
+          case (oldPredicate: Node, newTriple: (Long, (Long, Node))) =>
+            (newTriple._2._1,newTriple._1,newTriple._2._2)
+        }
+
+        predMap.coalesce(1,true).saveAsTextFile("/home/kathan/Downloads/datasets/".concat(lang).concat("/").concat(filename).concat("_Literlas2Id"))
+      }
     }
   }
 }
